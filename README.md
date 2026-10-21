@@ -41,6 +41,11 @@ Show the workflow as well as the promise. Compare the ruled grid, isometric topo
 
 [Explore Latticeport and open its live preview](https://lookfileai.com/product/latticeport?utm_source=community&utm_medium=campaign&utm_campaign=lf-github-latticeport-261022)
 
+
+## Try a complete interaction
+
+[Make the failure state part of your product demo](latticeport-failure-recovery.md) — follow a real failure-to-recovery sequence in the Latticeport preview, with two captured states and a practical design-review checklist.
+
 ## A practical first-edit exercise
 
 1. Choose one audience and one next action before touching the layout.
