@@ -46,6 +46,8 @@ Show the workflow as well as the promise. Compare the ruled grid, isometric topo
 
 [Make the failure state part of your product demo](latticeport-failure-recovery.md) — follow a real failure-to-recovery sequence in the Latticeport preview, with two captured states and a practical design-review checklist.
 
+[Make a product finder lead somewhere useful](velora-scent-finder.md) — inspect Velora Scent’s three-question recommendation, fragrance-note tabs and local sample tray, with captured states and a reusable design-review table.
+
 ## A practical first-edit exercise
 
 1. Choose one audience and one next action before touching the layout.
