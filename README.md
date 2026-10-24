@@ -48,6 +48,9 @@ Show the workflow as well as the promise. Compare the ruled grid, isometric topo
 
 [Make a product finder lead somewhere useful](velora-scent-finder.md) — inspect Velora Scent’s three-question recommendation, fragrance-note tabs and local sample tray, with captured states and a reusable design-review table.
 
+
+[Carry the record into the request](cinderline-record-to-request.md) — follow a searchable fictional architecture archive from a record to a local request, including an empty-search recovery state and actual captures.
+
 ## A practical first-edit exercise
 
 1. Choose one audience and one next action before touching the layout.
