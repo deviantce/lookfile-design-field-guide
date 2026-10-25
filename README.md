@@ -53,6 +53,9 @@ Show the workflow as well as the promise. Compare the ruled grid, isometric topo
 
 - [Count practice, not button presses](formant-honest-practice.md) — inspect a language-practice demo where reveal, navigation and unique completion are separate, with actual captured states.
 
+
+- [Let visitors inspect the object before asking them to book](vesper-object-and-visit.md) — a ceramics-studio walkthrough that separates object details from a local workshop plan, with two captured states.
+
 ## A practical first-edit exercise
 
 1. Choose one audience and one next action before touching the layout.
