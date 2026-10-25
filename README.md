@@ -51,6 +51,8 @@ Show the workflow as well as the promise. Compare the ruled grid, isometric topo
 
 [Carry the record into the request](cinderline-record-to-request.md) — follow a searchable fictional architecture archive from a record to a local request, including an empty-search recovery state and actual captures.
 
+- [Count practice, not button presses](formant-honest-practice.md) — inspect a language-practice demo where reveal, navigation and unique completion are separate, with actual captured states.
+
 ## A practical first-edit exercise
 
 1. Choose one audience and one next action before touching the layout.
