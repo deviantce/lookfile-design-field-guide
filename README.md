@@ -56,6 +56,8 @@ Show the workflow as well as the promise. Compare the ruled grid, isometric topo
 
 - [Let visitors inspect the object before asking them to book](vesper-object-and-visit.md) — a ceramics-studio walkthrough that separates object details from a local workshop plan, with two captured states.
 
+- [Carry a material choice into the brief, without inventing evidence](nivalis-material-to-brief.md) — a specimen/application walkthrough with actual local states and a bounded first-edit exercise for materials-studio frontends.
+
 ## A practical first-edit exercise
 
 1. Choose one audience and one next action before touching the layout.
